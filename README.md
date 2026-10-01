@@ -270,4 +270,4 @@ This repository serves as the official landing page for Necrovision. The softwar
 **Get the most recent version of Necrovision today!**
 
 ---
-**Last updated:** 2026-10-01 01:51:25 UTC
+**Last updated:** 2026-10-01 08:30:26 UTC
